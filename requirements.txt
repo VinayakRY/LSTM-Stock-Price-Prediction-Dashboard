@@ -1,0 +1,8 @@
+streamlit
+tensorflow==2.15.0
+yfinance
+pandas
+numpy
+plotly
+scikit-learn
+streamlit==1.45.1
